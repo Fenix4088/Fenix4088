@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehor</h1>
-<h3 align="center">A passionate typescript developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 📫 How to reach me **fenix4088@gmail.com**
 
